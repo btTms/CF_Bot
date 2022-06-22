@@ -1,0 +1,25 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+void solve(ifstream& cin){
+
+}
+
+int main(){
+
+  ifstream cin("in.txt");
+  //ofstream cout("mo.txt");
+
+  int nr;
+  cin >> nr;
+
+  while(nr){
+
+   solve(cin);
+   nr--;
+
+  }
+
+  return 0;
+}
