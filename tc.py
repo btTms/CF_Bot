@@ -90,5 +90,3 @@ print(colored((int(nr_of_test_cases) - cnt) * 50 + 145, (cnt * 10) + 145, 100, s
 
 expected_output.close()
 my_output.close()
-
-#comment
